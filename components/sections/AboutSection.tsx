@@ -13,7 +13,7 @@ export default function AboutSection() {
               10년의 경험과 노하우
             </h2>
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-              PLANHOM은 고객의 꿈과 상상을 현실로 만드는 전문 인테리어 디자인
+              HOME IN US 고객의 꿈과 상상을 현실로 만드는 전문 인테리어 디자인
               회사입니다. 10여 년간 축적된 경험과 노하우를 바탕으로 고객 맞춤형
               공간을 설계하고 시공합니다.
             </p>
